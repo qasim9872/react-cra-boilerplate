@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-cra-boilerplate/static/js/main.f10e8509.chunk.js",
+    "main.js.map": "/react-cra-boilerplate/static/js/main.f10e8509.chunk.js.map",
+    "runtime-main.js": "/react-cra-boilerplate/static/js/runtime-main.aec9c1bb.js",
+    "runtime-main.js.map": "/react-cra-boilerplate/static/js/runtime-main.aec9c1bb.js.map",
+    "static/js/2.a8d90ec1.chunk.js": "/react-cra-boilerplate/static/js/2.a8d90ec1.chunk.js",
+    "static/js/2.a8d90ec1.chunk.js.map": "/react-cra-boilerplate/static/js/2.a8d90ec1.chunk.js.map",
+    "index.html": "/react-cra-boilerplate/index.html",
+    "static/js/2.a8d90ec1.chunk.js.LICENSE.txt": "/react-cra-boilerplate/static/js/2.a8d90ec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec9c1bb.js",
+    "static/js/2.a8d90ec1.chunk.js",
+    "static/js/main.f10e8509.chunk.js"
+  ]
+}
